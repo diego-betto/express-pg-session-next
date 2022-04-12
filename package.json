@@ -17,6 +17,10 @@
     "pg"
   ],
   "author": "Sanjay Guruprasad <sanjay@softrade.in> (http://sanjaypojo.com/)",
+  "contributors": [{
+    "name": "Diego Betto",
+    "email": "info@diegobetto.com"
+  }],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sanjaypojo/express-pg-session/issues"

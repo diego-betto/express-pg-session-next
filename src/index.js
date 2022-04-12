@@ -269,6 +269,8 @@ module.exports = function (session) {
    * @param {Object} sess – the session object to store
    * @param {Function} fn – a standard Node.js callback returning the parsed session object
    * @access public
+   * 
+   * @description fixes "$" on rows 282 and 283
    */
 
   PGStore.prototype.touch = function (sessionId, sessionData, fn) {
