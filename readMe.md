@@ -1,5 +1,7 @@
-# express-pg-session
-A customizable PostgreSQL session store for Connect / Express
+# express-pg-session-next
+A customizable PostgreSQL session store for Connect / Express.
+**This is a fixed version** of [express-pg-session](https://github.com/sanjaypojo/express-pg-session).
+The original library is [express-pg-session](https://www.npmjs.com/package/express-pg-session).
 
 ## Forked from connect-pg-simple
 Most of the code is borrowed from [connect-pg-simple](https://github.com/voxpelli/node-connect-pg-simple)
